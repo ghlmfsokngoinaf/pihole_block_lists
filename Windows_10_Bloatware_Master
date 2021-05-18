@@ -1,0 +1,17 @@
+activity.windows.com
+(^|\.)weather.microsoft.com$
+evoke-windowsservices-tas.msedge.net
+cdn.onenote.net
+spclient.wg.spotify.com
+www.bing.com
+fp.msedge.net
+k-ring.msedge.net
+b-ring.msedge.net
+cs.dds.microsoft.com
+dmd.metaservices.microsoft.com
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+watson.telemetry.microsoft.com
+inference.location.live.net
+maps.windows.com
+(^|\.)ssl.ak.dynamic.tiles.virtualearth.net$
