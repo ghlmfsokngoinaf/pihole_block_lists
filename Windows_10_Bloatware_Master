@@ -40,7 +40,8 @@ client.wns.windows.com
 fe2cr.update.microsoft.com
 fe3cr.delivery.mp.microsoft.com
 iecvlist.microsoft.com
-
+storeedgefd.dsx.mp.microsoft.com
+store-images.microsoft.com
 
 # Office Telemetry
 mobile.pipe.aria.microsoft.com
