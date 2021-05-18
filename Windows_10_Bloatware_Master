@@ -1,3 +1,4 @@
+# Add these to your REGEX Tab
 #(^|\.)weather.microsoft.com$
 #(^|\.)ssl.ak.dynamic.tiles.virtualearth.net$
 #(^|\.)ssl.ak.tiles.virtualearth.net
@@ -6,15 +7,10 @@
 #(^|\.)arc.msn.com
 #(^|\.)dl.delivery.mp.microsoft.com
 #(^|\.)tlu.dl.delivery.mp.microsoft.com
-#(^|\.)
-#(^|\.)
-#(^|\.)
-#(^|\.)
 
 activity.windows.com
 evoke-windowsservices-tas.msedge.net
 cdn.onenote.net
-spclient.wg.spotify.com
 www.bing.com
 fp.msedge.net
 k-ring.msedge.net
