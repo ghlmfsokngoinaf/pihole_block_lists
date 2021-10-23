@@ -37,11 +37,18 @@ da.xboxservices.com
 www.xboxab.com
 odinvzc.azureedge.net
 client.wns.windows.com
+tsfe.trafficshaping.dsp.mp.microsoft.com
 fe2cr.update.microsoft.com
+storecatalogrevocation.storequality.microsoft.com
 fe3cr.delivery.mp.microsoft.com
 iecvlist.microsoft.com
 storeedgefd.dsx.mp.microsoft.com
 store-images.microsoft.com
+pti.store.microsoft.com
+cy2.settings.data.microsoft.com.akadns.net
+msn.com
+query.prod.cms.rt.microsoft.com
+ris.api.iris.microsoft.com
 
 # Office Telemetry
 mobile.pipe.aria.microsoft.com
