@@ -1,14 +1,6 @@
 ||visualstudio.com^
 ||playstation.net^
 ||ssl-images-amazon.com^
-
-// Disneyplus
-||signal.org^
-||braze.com^
-||cws.conviva.com^
-||disneyplus.com^
-disney.demdex.net
-
 ||easyanticheat.net^
 ||account.sony.com^
 ||bhvrdbd.com^
@@ -17,6 +9,15 @@ disney.demdex.net
 ||api.snapchat.com^
 ||ahcdn.com^
 ||apple.com^
+||spotify.com^
+
+// Disneyplus
+||signal.org^
+||braze.com^
+||cws.conviva.com^
+||disneyplus.com^
+disney.demdex.net
+
 
 // Normal Whitelist
 youtube.com
