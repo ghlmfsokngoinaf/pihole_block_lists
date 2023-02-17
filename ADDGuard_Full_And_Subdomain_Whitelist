@@ -18,6 +18,13 @@
 ||disneyplus.com^
 disney.demdex.net
 
+//amazon
+amazon.de
+amazon.co.uk
+amazon.eu
+amzn.eu
+s3.amazonaws.com
+alexa.amazon.de
 
 // Normal Whitelist
 youtube.com
@@ -36,11 +43,9 @@ mail.google.com
 app.adjust.com
 imgur.com
 i.imgur.com
-amazon.co.uk
-amazon.de
+
 hbbtv.redbutton.de
 streamtape.com
-alexa.amazon.de
 vivo.sx
 events.redditmedia.com
 
@@ -59,7 +64,6 @@ github.githubassets.com
 www.c-sharpcorner.com
 login.live.com
 outlook.live.com
-s3.amazonaws.com
 socialclub.rockstargames.com
 bit.ly
 nexusrules.officeapps.live.com
