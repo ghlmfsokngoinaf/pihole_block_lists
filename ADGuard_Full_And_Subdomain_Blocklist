@@ -1,10 +1,9 @@
-// Windows 10 Related
-||weather.microsoft.com^
-||ssl.ak.dynamic.tiles.virtualearth.net^
-||ssl.ak.tiles.virtualearth.net^
-||wns.windows.com^
-||displaycatalog.mp.microsoft.com^
-||arc.msn.com^
-||dl.delivery.mp.microsoft.com^
-||virtualearth.net^
-||msn.com^
+// Windows 10-11 Related
+||weather.microsoft.com^  // Microsoft Weather
+||wns.windows.com^        // Windows Push Notification Service
+||displaycatalog.mp.microsoft.com^ // Windows Telemetry
+||arc.msn.com^ // Windows Telemetry
+||virtualearth.net^ // Windows Telemetry
+||msn.com^ // IDK
+
+// Other
