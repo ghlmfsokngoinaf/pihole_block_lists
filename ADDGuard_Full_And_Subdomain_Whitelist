@@ -1,15 +1,61 @@
 ||visualstudio.com^
-||playstation.net^
-||ssl-images-amazon.com^
-||easyanticheat.net^
-||account.sony.com^
-||bhvrdbd.com^
+||mapper.ntppool.org^ // NTP Serverpool
+||ntp.org^ // NTP Serverprovider
+||kleinanzeigen.de^ // Ebay Kleinanzeigen
+||lencr.org^ // Lets Encrypt
+||sparkasse.de^
+||spotify.com^
+
+// VideoConferencing
+||webinar.com^
+||openvoice.com^
+||teams.microsoft.com^
+||zoom.us^
+||gotomeet.at^
+||gotomeet.at^
+||gotomeet.me^
+||gotomeeting.com^
+||joingotomeeting.com^
+||gotoroom.com^
+||gotowebinar.com^
+||joinwebinar.com^
+
+// Windows
+||delivery.mp.microsoft.com^ // Updates
+adl.windows.com // Update Compatibility Check
+tsfe.trafficshaping.dsp.mp.microsoft.com // Update Content Loadbalancer
+||update.microsoft.com^
+||windowsupdate.com^
+
+// Socials
+||signal.org
 ||github.com^
 ||fandom.com^
+chat.snapchat.com
 ||api.snapchat.com^
+cf-st.sc-cdn.net
 ||ahcdn.com^
 ||apple.com^
 ||spotify.com^
+facebook.com
+graph.facebook.com
+mpgh.net
+unknowncheats.me
+twitter.com
+mobile.twitter.com
+reddit.com
+e.reddit.com
+events.redditmedia.com
+cdn.discordapp.com
+media.discordapp.net
+
+// Games
+||bhvrdbd.com^
+||easyanticheat.net^
+||account.sony.com^
+||playstation.net^
+ns.exitgames.com
+socialclub.rockstargames.com
 
 // Disneyplus
 ||signal.org^
@@ -18,53 +64,45 @@
 ||disneyplus.com^
 disney.demdex.net
 
-//amazon
+// Amazon
 amazon.de
 amazon.co.uk
 amazon.eu
 amzn.eu
 s3.amazonaws.com
 alexa.amazon.de
+||ssl-images-amazon.com^
+||amazonaws.com^
 
-// Normal Whitelist
-youtube.com
-m.youtube.com
-mask.icloud.com
-chat.snapchat.com
+// Google
 google.de
 google.com
-href.li
-stressthem.to
-ns.exitgames.com
-twitter.com
-mobile.twitter.com
-facebook.com
+youtube.com
+m.youtube.com
 mail.google.com
-app.adjust.com
-imgur.com
-i.imgur.com
-
-hbbtv.redbutton.de
-streamtape.com
-vivo.sx
-events.redditmedia.com
+drive.google.com
+accounts.google.com
 
 // FireTV
 ftv-smp.ntp-fireos.com
 firetvcaptiveportal.com
 
-// experimental
-graph.facebook.com
-
+// Normal Whitelist
+whotracks.me
+href.li
+stressthem.to
+app.adjust.com
+imgur.com
+i.imgur.com
+hbbtv.redbutton.de
+streamtape.com
+vivo.sx
 in.appcenter.ms
-e.reddit.com
-cf-st.sc-cdn.net
 speedtest.net
 github.githubassets.com
 www.c-sharpcorner.com
 login.live.com
 outlook.live.com
-socialclub.rockstargames.com
 bit.ly
 nexusrules.officeapps.live.com
 sourceforge.net
@@ -72,12 +110,9 @@ stackoverflow.com
 assets.pons.com
 de.pons.com
 connectivitycheck.gstatic.com
-drive.google.com
 player-feedback.p7s1video.net
 get.adobe.com
 dict.cc
-mpgh.net
-unknowncheats.me
 pastebin.com
 ichnaea.netflix.com
-accounts.google.com
+thumbsnap.com
