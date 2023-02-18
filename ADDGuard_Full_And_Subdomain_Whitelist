@@ -69,8 +69,8 @@ amazon.de
 amazon.co.uk
 amazon.eu
 amzn.eu
-s3.amazonaws.com
 alexa.amazon.de
+api.eu.amazonalexa.com
 ||ssl-images-amazon.com^
 ||amazonaws.com^
 
