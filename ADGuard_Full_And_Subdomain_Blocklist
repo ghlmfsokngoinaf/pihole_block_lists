@@ -6,6 +6,15 @@
 ||virtualearth.net^ // Windows Telemetry
 ||msn.com^ // IDK
 
+// Windows 10-11 Related - Based on Querylog
+||msedge.net^
+||metaservices.microsoft.com^
+||data.microsoft.com^
+||telemetry.microsoft.com^
+||activity.windows.com^
+||bing.com^
+||location.live.net^
+
 // Other
 ||prnt.sc^
 ||steamcunnunity.com^
