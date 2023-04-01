@@ -1,8 +1,7 @@
 ||visualstudio.com^
-||mapper.ntppool.org^ // NTP Serverpool
-||ntp.org^ // NTP Serverprovider
-||kleinanzeigen.de^ // Ebay Kleinanzeigen
-||lencr.org^ // Lets Encrypt
+||mapper.ntppool.org^
+||ntp.org^
+||lencr.org^
 ||sparkasse.de^
 ||spotify.com^
 
@@ -119,3 +118,5 @@ dict.cc
 pastebin.com
 ichnaea.netflix.com
 thumbsnap.com
+kleinanzeigen.de
+ebay-kleinanzeigen.de
