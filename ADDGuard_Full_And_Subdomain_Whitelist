@@ -1,44 +1,45 @@
-||visualstudio.com^
-||mapper.ntppool.org^
-||ntp.org^
-||lencr.org^
-||sparkasse.de^
-||spotify.com^
-
 // Essential
-||lencr.org^
+@@||lencr.org^
+@@||digicert.com^
+@@||visualstudio.com^
+@@||mapper.ntppool.org^
+@@||ntp.org^
+@@||lencr.org^
+@@||sparkasse.de^
+@@||spotify.com^
 
 // VideoConferencing
-||webinar.com^
-||openvoice.com^
-||teams.microsoft.com^
-||zoom.us^
-||gotomeet.at^
-||gotomeet.at^
-||gotomeet.me^
-||gotomeeting.com^
-||joingotomeeting.com^
-||gotoroom.com^
-||gotowebinar.com^
-||joinwebinar.com^
+@@||webinar.com^
+@@||openvoice.com^
+@@||teams.microsoft.com^
+@@||zoom.us^
+@@||gotomeet.at^
+@@||gotomeet.at^
+@@||gotomeet.me^
+@@||gotomeeting.com^
+@@||joingotomeeting.com^
+@@||gotoroom.com^
+@@||gotowebinar.com^
+@@||joinwebinar.com^
 
 // Windows
-||delivery.mp.microsoft.com^ // Updates
+@@||delivery.mp.microsoft.com^ // Updates
 adl.windows.com // Update Compatibility Check
 tsfe.trafficshaping.dsp.mp.microsoft.com // Update Content Loadbalancer
-||update.microsoft.com^
-||windowsupdate.com^
+@@||update.microsoft.com^
+@@||windowsupdate.com^
+@@||msftconnecttest.com^$important // Check internetconnection
 
 // Socials
-||signal.org
-||github.com^
-||fandom.com^
+@@||signal.org
+@@||github.com^
+@@||fandom.com^
 chat.snapchat.com
-||api.snapchat.com^
+@@||api.snapchat.com^
 cf-st.sc-cdn.net
-||ahcdn.com^
-||apple.com^
-||spotify.com^
+@@||ahcdn.com^
+@@||apple.com^
+@@||spotify.com^
 facebook.com
 graph.facebook.com
 mpgh.net
@@ -52,18 +53,18 @@ cdn.discordapp.com
 media.discordapp.net
 
 // Games
-||bhvrdbd.com^
-||easyanticheat.net^
-||account.sony.com^
-||playstation.net^
+@@||bhvrdbd.com^
+@@||easyanticheat.net^
+@@||account.sony.com^
+@@||playstation.net^
+@@||playstation.com^
 ns.exitgames.com
 socialclub.rockstargames.com
 
 // Disneyplus
-||signal.org^
-||braze.com^
-||cws.conviva.com^
-||disneyplus.com^
+@@||braze.com^
+@@||cws.conviva.com^
+@@||disneyplus.com^
 disney.demdex.net
 
 // Amazon
@@ -73,8 +74,8 @@ amazon.eu
 amzn.eu
 alexa.amazon.de
 api.eu.amazonalexa.com
-||ssl-images-amazon.com^
-||amazonaws.com^
+@@||ssl-images-amazon.com^
+@@||amazonaws.com^
 
 // Google
 google.de
@@ -89,7 +90,14 @@ accounts.google.com
 ftv-smp.ntp-fireos.com
 firetvcaptiveportal.com
 
-// Normal Whitelist
+// Other-RegEx Whitelist
+@@||realsrv.com^$important
+@@||inapps.appsflyer.com^$important
+@@||launches.appsflyer.com^$important
+@@||openai.com^$important
+@@||bitpix.top^$important
+
+// Other-Normal Whitelist
 whotracks.me
 href.li
 stressthem.to
