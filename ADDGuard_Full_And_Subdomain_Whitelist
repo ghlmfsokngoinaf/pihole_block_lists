@@ -8,6 +8,7 @@
 @@||sparkasse.de^
 @@||spotify.com^
 @@||smtp.gmail.com^
+@@||nabu.casa^
 
 // VideoConferencing
 @@||webinar.com^
@@ -59,6 +60,10 @@ media.discordapp.net
 @@||account.sony.com^
 @@||playstation.net^
 @@||playstation.com^
+@@||blizzard.com^
+@@||battle.net^
+@@||activision.com^
+@@||callofduty.com^
 ns.exitgames.com
 socialclub.rockstargames.com
 
@@ -92,11 +97,12 @@ ftv-smp.ntp-fireos.com
 firetvcaptiveportal.com
 
 // Other-RegEx Whitelist
-@@||realsrv.com^$important
-@@||inapps.appsflyer.com^$important
-@@||launches.appsflyer.com^$important
+@@||realsrv.com^
+@@||inapps.appsflyer.com^
+@@||launches.appsflyer.com^
 @@||openai.com^$important
 @@||bitpix.top^$important
+@@||malwarebytes.com^
 
 // Other-Normal Whitelist
 thumbsnap.com
@@ -112,7 +118,7 @@ vivo.sx
 in.appcenter.ms
 speedtest.net
 github.githubassets.com
-www.c-sharpcorner.com
+c-sharpcorner.com
 login.live.com
 outlook.live.com
 bit.ly
