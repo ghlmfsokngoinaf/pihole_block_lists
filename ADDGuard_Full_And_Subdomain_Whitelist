@@ -79,6 +79,7 @@ amazon.de
 amazon.co.uk
 amazon.eu
 amzn.eu
+amazon.com
 alexa.amazon.de
 api.eu.amazonalexa.com
 @@||ssl-images-amazon.com^
@@ -104,6 +105,13 @@ firetvcaptiveportal.com
 @@||openai.com^$important
 @@||bitpix.top^$important
 @@||malwarebytes.com^
+
+//other wildcard whitelist
+@@||mwbsys.com^
+@@||*fmipmobile.icloud.com // Apple FindMyFriends
+@@||*contacts.icloud.com // Apple FindMyFriends
+@@||*fmfmobile.icloud.com // Apple FindMyFriends
+@@||*fmip.icloud.com // Apple FindMyFriends
 
 // Other-Normal Whitelist
 thumbsnap.com
