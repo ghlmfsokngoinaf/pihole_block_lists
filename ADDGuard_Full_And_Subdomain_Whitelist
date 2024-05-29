@@ -103,6 +103,10 @@ firetvcaptiveportal.com
 @@||openai.com^$important
 @@||bitpix.top^$important
 @@||malwarebytes.com^
+@@||prnt.sc^$important
+@@||feig-partner.de^
+@@||asos-media.com^
+@@||asos.com^
 
 //other wildcard whitelist
 @@||mwbsys.com^
@@ -110,6 +114,7 @@ firetvcaptiveportal.com
 @@||*contacts.icloud.com // Apple FindMyFriends
 @@||*fmfmobile.icloud.com // Apple FindMyFriends
 @@||*fmip.icloud.com // Apple FindMyFriends
+@@||*inapps.appsflyersdk.com^
 
 // Other-Normal Whitelist
 thumbsnap.com
