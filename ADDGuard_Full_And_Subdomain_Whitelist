@@ -10,6 +10,9 @@
 @@||smtp.gmail.com^
 @@||nabu.casa^
 @@||home-assistant.io^
+@@||nuget.org
+@@||check24.de
+@@||icloud.com
 
 // VideoConferencing
 @@||webinar.com^
@@ -53,6 +56,7 @@ mobile.twitter.com
 events.redditmedia.com
 @@||discordapp.com
 
+
 // Games
 @@||bhvrdbd.com
 @@||easyanticheat.net
@@ -69,6 +73,8 @@ events.redditmedia.com
 @@||steamcommunity.com
 ns.exitgames.com
 @@||rockstargames.com
+@@||wargaming.net
+@@||wgcdn.co
 
 // Disneyplus
 @@||braze.com^
@@ -101,6 +107,8 @@ ftv-smp.ntp-fireos.com
 firetvcaptiveportal.com
 
 //other wildcard whitelist
+@@||lenovo.7eer.net
+@@||atu.de
 @@||realsrv.com^
 @@||inapps.appsflyer.com^
 @@||launches.appsflyer.com^
