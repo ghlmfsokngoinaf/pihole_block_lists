@@ -35,36 +35,40 @@ tsfe.trafficshaping.dsp.mp.microsoft.com // Update Content Loadbalancer
 
 // Socials
 @@||signal.org
-@@||github.com^
-@@||fandom.com^
+@@||github.com
+@@||fandom.com
 chat.snapchat.com
-@@||api.snapchat.com^
+@@||api.snapchat.com
 cf-st.sc-cdn.net
-@@||ahcdn.com^
-@@||apple.com^
-@@||spotify.com^
+@@||ahcdn.com
+@@||apple.com
+@@||spotify.com
 facebook.com
 graph.facebook.com
 mpgh.net
 unknowncheats.me
 twitter.com
 mobile.twitter.com
-@@||reddit.com^
+@@||reddit.com
 events.redditmedia.com
-@@||discordapp.com^
+@@||discordapp.com
 
 // Games
-@@||bhvrdbd.com^
-@@||easyanticheat.net^
-@@||account.sony.com^
-@@||playstation.net^
-@@||playstation.com^
-@@||blizzard.com^
-@@||battle.net^
-@@||activision.com^
-@@||callofduty.com^
+@@||bhvrdbd.com
+@@||easyanticheat.net
+@@||account.sony.com
+@@||playstation.net
+@@||playstation.com
+@@||blizzard.com
+@@||battle.net
+@@||activision.com
+@@||callofduty.com
+@@||steampowered.com
+@@||epicgames.com
+@@||steamstatic.com
+@@||steamcommunity.com
 ns.exitgames.com
-socialclub.rockstargames.com
+@@||rockstargames.com
 
 // Disneyplus
 @@||braze.com^
@@ -96,7 +100,7 @@ accounts.google.com
 ftv-smp.ntp-fireos.com
 firetvcaptiveportal.com
 
-// Other-RegEx Whitelist
+//other wildcard whitelist
 @@||realsrv.com^
 @@||inapps.appsflyer.com^
 @@||launches.appsflyer.com^
@@ -107,14 +111,23 @@ firetvcaptiveportal.com
 @@||feig-partner.de^
 @@||asos-media.com^
 @@||asos.com^
-
-//other wildcard whitelist
+@@||pdf24.org
 @@||mwbsys.com^
 @@||*fmipmobile.icloud.com // Apple FindMyFriends
 @@||*contacts.icloud.com // Apple FindMyFriends
 @@||*fmfmobile.icloud.com // Apple FindMyFriends
 @@||*fmip.icloud.com // Apple FindMyFriends
 @@||*inapps.appsflyersdk.com^
+@@||cu-images.imagea.top^
+@@||cu-images.imageb.top^
+@@||cu-images.imagec.top^
+@@||cu-images.imagee.top^
+@@||cu-images.imaged.top^
+@@||cu-images.imagef.top^
+@@||cu-images.imageg.top^
+@@||cu-images.imageh.top^
+@@||cu-images.imagei.top^
+@@||cu-images.imagej.top^
 
 // Other-Normal Whitelist
 thumbsnap.com
