@@ -13,6 +13,10 @@
 @@||nuget.org
 @@||check24.de
 @@||icloud.com
+@@||recaptcha.net^
+@@||sharepoint.com^
+@@||cloud.nabucasa.com^
+@@||check24.de^
 
 // VideoConferencing
 @@||webinar.com^
@@ -54,6 +58,8 @@ twitter.com
 mobile.twitter.com
 @@||reddit.com
 events.redditmedia.com
+@@||alb.reddit.com^
+@@||w3-reporting.reddit.com
 @@||discordapp.com
 
 
@@ -67,10 +73,11 @@ events.redditmedia.com
 @@||battle.net
 @@||activision.com
 @@||callofduty.com
-@@||steampowered.com
 @@||epicgames.com
+@@||steampowered.com
 @@||steamstatic.com
 @@||steamcommunity.com
+@@||epicgames.com
 ns.exitgames.com
 @@||rockstargames.com
 @@||wargaming.net
@@ -92,6 +99,7 @@ alexa.amazon.de
 api.eu.amazonalexa.com
 @@||ssl-images-amazon.com^
 @@||amazonaws.com^
+@@||aan.amazon.de^
 
 // Google
 google.de
@@ -101,6 +109,7 @@ m.youtube.com
 mail.google.com
 drive.google.com
 accounts.google.com
+@@||content-autofill.googleapis.com^
 
 // FireTV
 ftv-smp.ntp-fireos.com
@@ -136,6 +145,8 @@ firetvcaptiveportal.com
 @@||cu-images.imageh.top^
 @@||cu-images.imagei.top^
 @@||cu-images.imagej.top^
+@@||chatgpt.com^
+@@||aaplimg.com^
 
 // Other-Normal Whitelist
 softwareupdates.amazon.com
