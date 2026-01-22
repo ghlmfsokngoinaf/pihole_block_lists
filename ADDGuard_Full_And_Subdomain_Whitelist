@@ -17,6 +17,10 @@
 @@||sharepoint.com^
 @@||cloud.nabucasa.com^
 @@||check24.de^
+@@||cdn.whatsapp.net^
+@@||imap.gmail.com^
+@@||apple-mapkit.com^
+@@||app-payment.takeaway.com^
 
 // VideoConferencing
 @@||webinar.com^
@@ -100,6 +104,7 @@ api.eu.amazonalexa.com
 @@||ssl-images-amazon.com^
 @@||amazonaws.com^
 @@||aan.amazon.de^
+@@||sdk.fra-02.braze.eu^
 
 // Google
 google.de
